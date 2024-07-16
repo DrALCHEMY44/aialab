@@ -20,7 +20,7 @@ const Footer = () => {
             <h1 className="heading lg:max-w-[45vw]">
                 Ready to take <span className="text-purple">your</span>digital and technology presence to the next level?
             </h1>
-            <p className="text-white-200 md:mt-10 my-5 text-cemter">Reach out to us today and let's discuss how I can help you archieve your goals</p>
+            <p className="text-white-200 md:mt-10 my-5 text-cemter">Reach out to us today and lets discuss how I can help you archieve your goals</p>
             <a href="mailto:aialab@gmail.com">
                 <MagicButton title={"Lets get in touch"} icon={<FaLocationArrow/>} position={"right"}/>
             </a>
