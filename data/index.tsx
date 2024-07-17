@@ -13,7 +13,7 @@ export const navItems = [
       className: "lg:col-span-2  md:col-span-3 md:row-span-2 lg:min-h-[60vh] text-purple font-bold font-",
       imgClassName: "flex flex-center w-full h-full opacity-20",
       titleClassName: "justify-end",
-      img: "/robot.jpg",
+      img: "/rob.jpg",
       spareImg: "",
     },
     {
