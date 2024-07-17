@@ -18,8 +18,8 @@ import Logo from "@/components/Logo";
 
 export default function Home() {
   return (
-    <main className="relative bg-black-100 flex justify-center items-center flex-col  mx-auto sm:px-10 px-5 overflow-clip">
-      <div className="max-w-7xl w-full">
+    <main className="relative bg-[url(/afric5.jpg)] bg-center bg-fixed bg-opacity-0 flex justify-center items-center flex-col  mx-auto sm:px-10 px-5 overflow-clip  text-opacity-100 ">
+      <div className="max-w-7xl w-full  ">
         <BackgroundBeams/>
         <FloatingNav navItems={navItems}/>
         <Hero/>
