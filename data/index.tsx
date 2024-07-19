@@ -50,11 +50,11 @@ export const navItems = [
     {
       id: 5,
       title: "Unlock the potential ",
-      description: "Unlock the potential of your brand with AIA LAB,The leading Artificial Intelligence and Art Laboratory.We specialize in delivering innovative graphic and web design, development of sottware and mobile application, and digital marketing services that elevate your business to new heights. With our expertise and forward-thinking approach, we empower you to stand out in the digital landscape while captivating your audience.",
+      description: "At AIALAB, we weave captivating stories and create resonant identities. Our graphic design is a language that speaks to your audience, tells your story, and establishes a deep connection with your brand.",
       className: " lg:col-span-2 md:col-span-1 md:row-span-2",
       imgClassName: "flex h-screen w-full justify-center items-center md:w-96 w-60 bg-black-50 opacity-10",
       titleClassName: "justify-center md:justify-start lg:justify-center",
-      img: "/b5.svg",
+      img: "/g6.webp",
       spareImg: "/i6.png",
     },
     {
