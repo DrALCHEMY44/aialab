@@ -54,8 +54,8 @@ export const navItems = [
       className: " lg:col-span-2 md:col-span-1 md:row-span-2",
       imgClassName: "flex h-screen w-full justify-center items-center md:w-96 w-60 bg-black-50 opacity-10",
       titleClassName: "justify-center md:justify-start lg:justify-center",
-      img: "/g6.webp",
-      spareImg: "/i6.png",
+      img: "/b5.svg",
+      spareImg: "/g8.webp",
     },
     {
       id: 6,
