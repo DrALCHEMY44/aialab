@@ -10,7 +10,7 @@ export const navItems = [
       id: 1,
       title: "Graphic Design, Technology and Digital Marketing Agency ",
       description: "  Your Destination for Cutting-Edge Graphic Design ,Web Development And Design, Development of Software Applications, Mobile Applications,New Technologies , and Digital Marketing Solutions",
-      className: "lg:col-span-2  md:col-span-3 md:row-span-2 lg:min-h-[60vh] text-purple font-bold font-",
+      className: "lg:col-span-2  md:col-span-3 md:row-span-2 lg:min-h-[60vh] text-purple font-bold font-helvatica",
       imgClassName: "flex flex-center w-full h-full opacity-20",
       titleClassName: "justify-end",
       img: "/rob.jpg",
@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Unlock the potential ",
+      title: "GRAPHIC DESIGN ",
       description: "At AIALAB, we weave captivating stories and create resonant identities. Our graphic design is a language that speaks to your audience, tells your story, and establishes a deep connection with your brand.",
       className: " lg:col-span-2 md:col-span-1 md:row-span-2",
       imgClassName: "flex h-screen w-full justify-center items-center md:w-96 w-60 bg-black-50 opacity-10",

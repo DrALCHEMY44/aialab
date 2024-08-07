@@ -221,4 +221,15 @@ function addVariablesForColors({ addBase, theme }: any) {
 
 
 export default config;
+module.exports = {
+  theme: {
+    extend: {
+      fontFamily: {
+        helvetica: ['Helvetica', 'Arial', 'sans-serif'],
+      },
+    },
+  },
+};
+
+
 
